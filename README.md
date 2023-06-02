@@ -1,6 +1,6 @@
 # Image-Textfill-Effect
 
-# Download the Code and Run on Live Server
+Download the Code and Run on Live Server
 
 Output Image:
 
