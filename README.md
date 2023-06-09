@@ -1,6 +1,6 @@
 # Image-Textfill-Effect
 
-Download the Code and Open on VS Code. 
+Download the Code and Open in VS Code.
 
 Run on Live Server.
 
